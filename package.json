@@ -1,0 +1,27 @@
+{
+  "name": "rails-react-devise",
+  "private": true,
+  "dependencies": {
+    "@babel/preset-react": "^7.0.0",
+    "@rails/webpacker": "^4.2.2",
+    "axios": "^0.19.0",
+    "babel-plugin-transform-react-remove-prop-types": "^0.4.24",
+    "bulma": "^0.8.0",
+    "core-js": "3",
+    "dotenv": "^8.2.0",
+    "framer-motion": "^1.7.0",
+    "fstream": "^1.0.12",
+    "lodash": "^4.17.13",
+    "lodash.template": "^4.5.0",
+    "prop-types": "^15.7.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-dropzone": "^10.2.1",
+    "react-router-dom": "^5.1.2",
+    "react-router-transition": "^2.0.0",
+    "react-stonecutter": "^0.3.10"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "^3.3.1"
+  }
+}
